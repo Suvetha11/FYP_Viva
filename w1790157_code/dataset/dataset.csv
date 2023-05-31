@@ -1,0 +1,1233 @@
+﻿command,code
+set up new integer,integer a
+set up new integer,integer b
+set up new string,text a
+set up new string,text b
+set up new text,text a
+set up new text,text b
+set up new number,number a
+set up new number,number b
+set up new boolean,boolean a
+set up new boolean,boolean b
+create new integer,integer a
+create new integer,integer b
+create new string,text a
+create new string,text b
+create new text,text a
+create new text,text b
+create new number,number a
+create new number,number b
+create new boolean,boolean a
+create new boolean,boolean b
+declare new integer,integer a
+declare new integer,integer b
+declare new string,text a
+declare new string,text b
+declare new text,text a
+declare new text,text b
+declare new number,number a
+declare new number,number b
+declare new boolean,boolean a
+declare new boolean,boolean b
+declare a new integer,integer a
+declare a new integer,integer b
+declare a new string,text a
+declare a new string,text b
+declare a new text,text c
+declare a new text,text d
+declare a new number,number a
+declare a new number,number b
+declare a new boolean,boolean a
+declare a new boolean,boolean b
+declare string x,text x
+declare string y,text y
+declare text x,text x
+declare text y,text y
+declare integer x,integer x
+declare integer y,integer y
+declare number x,number x
+declare number y,number y
+declare boolean x,boolean x
+declare boolean y,boolean y
+declare variable with type string ,text a
+declare variable with type string ,text b
+declare variable with type text ,text a
+declare variable with type text ,text b
+declare variable with type integer ,integer a
+declare variable with type integer ,integer b
+declare variable with type number ,number a
+declare variable with type number ,number b
+declare variable with type boolean ,boolean a
+declare variable with type boolean ,boolean b
+declare a string variable named x,text x
+declare a string variable named y,text y
+declare a text variable named x,text x
+declare a text variable named y,text y
+declare an integer variable named x,integer x
+declare an integer variable named y,integer y
+declare a number variable named x,number x
+declare a number variable named y,number y
+declare a boolean variable named x,boolean x
+declare a boolean variable named y,boolean y
+declare a variable called x with type string,text x
+declare a variable called y with type string,text y
+declare a variable called x with type text,text x
+declare a variable called y with type text,text y
+declare a variable called x with type integer,integer x
+declare a variable called y with type integer,integer y
+declare a variable called x with type number,number x
+declare a variable called y with type number,number y
+declare a variable called x with type boolean,boolean x
+declare a variable called y with type boolean,boolean y
+declare string type variable x,text x
+declare string type variable y,text y
+declare text type variable x,text x
+declare text type variable y,text y
+declare integer type variable count,integer count
+declare integer type variable age,integer age
+declare number type variable x,number x
+declare number type variable y,number y
+declare boolean type variable x,boolean x
+declare boolean type variable y,boolean y
+declare variable with type string ,text a
+declare variable with type string ,text b
+declare variable with type text ,text a
+declare variable with type text ,text b
+declare variable with type integer ,integer a
+declare variable with type integer ,integer b
+declare variable with type number ,number a
+declare variable with type number ,number b
+declare variable with type boolean ,boolean a
+declare variable with type boolean ,boolean b
+declare a string variable named x,text x
+declare a string variable named y,text y
+declare a text variable named x,text x
+declare a text variable named y,text y
+declare an integer variable named x,integer x
+declare an integer variable named y,integer y
+declare a number variable named x,number x
+declare a number variable named y,number y
+declare a boolean variable named x,boolean x
+declare a boolean variable named y,boolean y
+declare a variable called x with type string,text x
+declare a variable called y with type string,text y
+declare a variable called x with type text,text x
+declare a variable called y with type text,text y
+declare a variable called x with type integer,integer x
+declare a variable called y with type integer,integer y
+declare a variable called x with type number,number x
+declare a variable called y with type number,number y
+declare a variable called x with type boolean,boolean x
+declare a variable called y with type boolean,boolean y
+declare string type variable x,text x
+declare string type variable y,text y
+declare text type variable x,text x
+declare text type variable y,text y
+declare integer type variable count,integer count
+declare integer type variable age,integer age
+declare number type variable x,number x
+declare number type variable y,number y
+declare boolean type variable x,boolean x
+declare boolean type variable y,boolean y
+initiate integer x with value one,integer x = 1
+initiate integer x with value two,integer x = 2
+initiate integer x with value three,integer x = 3
+initiate integer x with value four,integer x = 4
+initiate integer x with value five,integer x = 5
+initiate integer x with value six,integer x = 6
+initiate integer x with value seven,integer x = 7
+initiate integer x with value eight,integer x = 8
+initiate integer x with value nine,integer x = 9
+initiate integer x with value ten,integer x = 10
+initiate integer x with value eleven,integer x = 11
+initiate integer x with value twelve,integer x = 12
+initiate integer x with value thirteen,integer x = 13
+initiate integer x with value fourteen,integer x = 14
+initiate integer x with value fifteen,integer x = 15
+initiate integer x with value sixteen,integer x = 16
+initiate integer x with value seventeen,integer x = 17
+initiate integer x with value eighteen,integer x = 18
+initiate integer x with value nineteen,integer x = 19
+initiate integer x with value twenty,integer x = 20
+initiate integer y with value one,integer y = 1
+initiate integer y with value two,integer y = 2
+initiate integer y with value three,integer y = 3
+initiate integer y with value four,integer y = 4
+initiate integer y with value five,integer y = 5
+initiate integer y with value six,integer y = 6
+initiate integer y with value seven,integer y = 7
+initiate integer y with value eight,integer y = 8
+initiate integer y with value nine,integer y = 9
+initiate integer y with value ten,integer y = 10
+initiate integer y with value eleven,integer y = 11
+initiate integer y with value twelve,integer y = 12
+initiate integer y with value thirteen,integer y = 13
+initiate integer y with value fourteen,integer y = 14
+initiate integer y with value fifteen,integer y = 15
+initiate integer y with value sixteen,integer y = 16
+initiate integer y with value seventeen,integer y = 17
+initiate integer y with value eighteen,integer y = 18
+initiate integer y with value nineteen,integer y = 19
+initiate integer y with value twenty,integer y = 20
+initiate string x with value hello,"text x = ""hello"""
+initiate string x with value word,"text x = ""word"""
+initiate string x with value dog,"text x = ""dog"""
+initiate string x with value animal,"text x = ""animal"""
+initiate string x with value house,"text x = ""house"""
+initiate string x with value hello world,"text x = ""hello world"""
+initiate string x with value animal cat,"text x = ""animal cat"""
+initiate string x with value good luck,"text x = ""good luck"""
+initiate string x with value x y,"text x = ""x y"""
+initiate string x with value a b,"text x = ""a b"""
+initiate string x with value hello world new,"text x = ""hello world new"""
+initiate string x with value animal home cat,"text x = ""animal home cat"""
+initiate string x with value very good luck ,"text x = ""very good luck"""
+initiate string x with value x y z,"text x = ""x y z"""
+initiate string x with value a b c,"text x = ""a b c"""
+initiate text x with value hello,"text x = ""hello"""
+initiate text x with value word,"text x = ""word"""
+initiate text x with value dog,"text x = ""dog"""
+initiate text x with value animal,"text x = ""animal"""
+initiate text x with value house,"text x = ""house"""
+initiate text x with value hello world,"text x = ""hello world"""
+initiate text x with value animal cat,"text x = ""animal cat"""
+initiate text x with value good luck,"text x = ""good luck"""
+initiate text x with value x y,"text x = ""x y"""
+initiate text x with value a b,"text x = ""a b"""
+initiate text x with value hello world new,"text x = ""hello world new"""
+initiate text x with value animal home cat,"text x = ""animal home cat"""
+initiate text x with value very good luck ,"text x = ""very good luck"""
+initiate text x with value x y z,"text x = ""x y z"""
+initiate text x with value a b c,"text x = ""a b c"""
+print name,"output ""name"""
+print dog,"output ""dog"""
+print x,"output ""x"""
+print hello world,"output ""hello world"""
+print good luck,"output ""good luck"""
+print x y,"output ""x y"""
+print  all is well,"output ""all is well"""
+print sky is blue,"output ""sky is blue"""
+print x y z,"output ""x y z"""
+print text name,"output ""name"""
+print text dog,"output ""dog"""
+print text x,"output ""x"""
+print text hello world,"output ""hello world"""
+print text good luck,"output ""good luck"""
+print text x y,"output ""x y"""
+print text all is well,"output ""all is well"""
+print text sky is blue,"output ""sky is blue"""
+print text x y z,"output ""x y z"""
+print string name,"output ""name"""
+print string dog,"output ""dog"""
+print string x,"output ""x"""
+print string hello world,"output ""hello world"""
+print string good luck,"output ""good luck"""
+print string x y,"output ""x y"""
+print string all is well,"output ""all is well"""
+print string sky is blue,"output ""sky is blue"""
+print string x y z,"output ""x y z"""
+output name,"output ""name"""
+output dog,"output ""dog"""
+output x,"output ""x"""
+output hello world,"output ""hello world"""
+output good luck,"output ""good luck"""
+output x y,"output ""x y"""
+output  all is well,"output ""all is well"""
+output sky is blue,"output ""sky is blue"""
+output x y z,"output ""x y z"""
+output text name,"output ""name"""
+output text dog,"output ""dog"""
+output text x,"output ""x"""
+output text hello world,"output ""hello world"""
+output text good luck,"output ""good luck"""
+output text x y,"output ""x y"""
+output text all is well,"output ""all is well"""
+output text sky is blue,"output ""sky is blue"""
+output text x y z,"output ""x y z"""
+output string name,"output ""name"""
+output string dog,"output ""dog"""
+output string x,"output ""x"""
+output string hello world,"output ""hello world"""
+output string good luck,"output ""good luck"""
+output string x y,"output ""x y"""
+output string all is well,"output ""all is well"""
+output string sky is blue,"output ""sky is blue"""
+output string x y z,"output ""x y z"""
+print variable name,output name
+print variable dog,output dog
+print variable x,output x
+print variable hello world,output hello_world
+print variable good luck,output good_luck
+print variable x y,output x_y
+print variable all is well,output all_is_well
+print variable sky is blue,output sky_is blue
+print variable x y z,output x_y_z
+print variable text name,output name
+print variable text dog,output dog
+print variable text x,output x
+print variable text hello world,output hello_world
+print variable text good luck,output good_luck
+print variable text x y,output x_y
+print variable text all is well,output all_is_well
+print variable text sky is blue,output sky_is blue
+print variable text x y z,output x_y_z
+print variable string name,output name
+print variable string dog,output dog
+print variable string x,output x
+print variable string hello world,output hello_world
+print variable string good luck,output good_luck
+print variable string x y,output x_y
+print variable string all is well,output all_is_well
+print variable string sky is blue,output sky_is blue
+print variable string x y z,output x_y_z
+output variable name,output name
+output variable dog,output dog
+output variable x,output x
+output variable hello world,output hello_world
+output variable good luck,output good_luck
+output variable x y,output x_y
+output variable  all is well,output all_is_well
+output variable sky is blue,output sky_is blue
+output variable x y z,output x_y_z
+output variable text name,output name
+output variable text dog,output dog
+output variable text x,output x
+output variable text hello world,output hello_world
+output variable text good luck,output good_luck
+output variable text x y,output x_y
+output variable text all is well,output all_is_well
+output variable text sky is blue,output sky_is blue
+output variable text x y z,output x_y_z
+output variable string name,output name
+output variable string dog,output dog
+output variable string x,output x
+output variable string hello world,output hello_world
+output variable string good luck,output good_luck
+output variable string x y,output x_y
+output variable string all is well,output all_is_well
+output variable string sky is blue,output sky_is blue
+output variable string x y z,output x_y_z
+initiate integer x with value one,integer x = 1
+initiate number x with value one,number x = 1.0
+initiate text x with value one,"text x =  ""1"""
+initiate string x with value one,"text x =  ""1"""
+initiate integer x with value two,integer x = 2
+initiate number x with value two,number x = 2.0
+initiate text x with value two,"text x =  ""2"""
+initiate string x with value two,"text x =  ""2"""
+initiate integer x with value three,integer x = 3
+initiate number x with value three,number x = 3.0
+initiate text x with value three,"text x =  ""3"""
+initiate string x with value three,"text x =  ""3"""
+initiate integer x with value four,integer x = 4
+initiate number x with value four,number x = 4.0
+initiate text x with value four,"text x =  ""4"""
+initiate string x with value four,"text x =  ""4"""
+initiate integer x with value five,integer x = 5
+initiate number x with value five,number x = 5.0
+initiate text x with value five,"text x =  ""5"""
+initiate string x with value five,"text x =  ""5"""
+initiate integer x with value six,integer x = 6
+initiate number x with value six,number x = 6.0
+initiate text x with value six,"text x =  ""6"""
+initiate string x with value six,"text x =  ""6"""
+initiate integer x with value seven,integer x = 7
+initiate number x with value seven,number x = 7.0
+initiate text x with value seven,"text x =  ""7"""
+initiate string x with value seven,"text x =  ""7"""
+initiate integer x with value eight,integer x = 8
+initiate number x with value eight,number x = 8.0
+initiate text x with value eight,"text x =  ""8"""
+initiate string x with value eight,"text x =  ""8"""
+initiate integer x with value nine,integer x = 9
+initiate number x with value nine,number x = 9.0
+initiate text x with value nine,"text x =  ""9"""
+initiate string x with value nine,"text x =  ""9"""
+initiate integer x with value ten,integer x = 10
+initiate number x with value ten,number x = 10.0
+initiate text x with value ten,"text x =  ""10"""
+initiate string x with value ten,"text x =  ""10"""
+initiate number x with value one point one,number x = 1.1
+initiate number x with value one point two,number x = 1.2
+initiate number x with value one point three,number x = 1.3
+initiate number x with value one point four,number x = 1.4
+initiate number x with value one point five,number x = 1.5
+initiate number x with value two point one,number x = 2.1
+initiate number x with value two point two,number x = 2.2
+initiate number x with value two point three,number x = 2.3
+initiate number x with value two point four,number x = 2.4
+initiate number x with value two point five,number x = 2.5
+initiate number x with value three point one,number x = 3.1
+initiate number x with value three point two,number x = 3.2
+initiate number x with value three point three,number x = 3.3
+initiate number x with value three point four,number x = 3.4
+initiate number x with value three point five,number x = 3.5
+initiate number x with value four point one,number x = 4.1
+initiate number x with value four point two,number x = 4.2
+initiate number x with value four point three,number x = 4.3
+initiate number x with value four point four,number x = 4.4
+initiate number x with value four point five,number x = 4.5
+initiate number x with value twenty point one,number x = 20.1
+initiate number x with value twenty point two,number x = 20.2
+initiate number x with value twenty point three,number x = 20.3
+initiate number x with value twenty point four,number x = 20.4
+initiate number x with value twenty point five,number x = 20.5
+initiate number x with value twenty one point one,number x = 21.1
+initiate number x with value twenty one point two,number x = 21.2
+initiate number x with value twenty one point three,number x = 21.3
+initiate number x with value twenty one point four,number x = 21.4
+initiate number x with value twenty one point five,number x = 21.5
+initiate number x with value twenty two point one,number x = 22.1
+initiate number x with value twenty two point two,number x = 22.2
+initiate number x with value twenty two point three,number x = 22.3
+initiate number x with value twenty two point four,number x = 22.4
+initiate number x with value twenty two point five,number x = 22.5
+initiate number x with value twenty three point one,number x = 23.1
+initiate number x with value twenty three point two,number x = 23.2
+initiate number x with value twenty three point three,number x = 23.3
+initiate number x with value twenty three point four,number x = 23.4
+initiate number x with value twenty three point five,number x = 23.5
+initiate number x with value twenty four point one,number x = 24.1
+initiate number x with value twenty four point two,number x = 24.2
+initiate number x with value twenty four point three,number x = 24.3
+initiate number x with value twenty four point four,number x = 24.4
+initiate number x with value twenty four point five,number x = 24.5
+add one and two and assign to integer variable x,integer x = 1 + 2
+add one and three and assign to integer variable x,integer x = 1 + 3
+add one and four and assign to integer variable x,integer x = 1 + 4
+add two and three and assign to integer variable x,integer x = 2 + 3
+add two and two and assign to integer variable x,integer x = 2 + 2
+add five and twenty and assign to integer variable x,integer x = 5 + 20
+add one and six and assign to integer variable x,integer x = 1 + 6
+add ten and fifteen and assign to integer variable x,integer x = 10 + 15
+add nine and seven and assign to integer variable x,integer x = 9 + 7
+add eight and two and assign to integer variable x,integer x = 8 + 2
+add four and twelve and assign to integer variable x,integer x = 4 + 12
+add twenty and twenty one and assign to integer variable x,integer x = 20 + 21
+add nineteen and fifteen and assign to integer variable x,integer x = 19 + 15
+add seventy five and ninety six and assign to integer variable x,integer x = 75 + 96
+add seventy and twelve and assign to integer variable x,integer x = 70 + 12
+add forty and ninety and assign to integer variable x,integer x = 40 + 90
+add one plus two and assign to integer variable x,integer x = 1 + 2
+add one plus three and assign to integer variable x,integer x = 1 + 3
+add one plus four and assign to integer variable x,integer x = 1 + 4
+add two plus three and assign to integer variable x,integer x = 2 + 3
+add two plus two and assign to integer variable x,integer x = 2 + 2
+add five plus twenty and assign to integer variable x,integer x = 5 + 20
+add one plus six and assign to integer variable x,integer x = 1 + 6
+add ten plus fifteen and assign to integer variable x,integer x = 10 + 15
+add nine plus seven and assign to integer variable x,integer x = 9 + 7
+add eight plus two and assign to integer variable x,integer x = 8 + 2
+add four plus twelve and assign to integer variable x,integer x = 4 + 12
+add twenty plus twenty one and assign to integer variable x,integer x = 20 + 21
+add nineteen plus fifteen and assign to integer variable x,integer x = 19 + 15
+add seventy five plus ninety six and assign to integer variable x,integer x = 75 + 96
+add seventy plus twelve and assign to integer variable x,integer x = 70 + 12
+add forty plus ninety and assign to integer variable x,integer x = 40 + 90
+subtract one from two and assign to integer variable x,integer x = 1 - 2
+subtract one from three and assign to integer variable x,integer x = 1 - 3
+subtract one from four and assign to integer variable x,integer x = 1 - 4
+subtract two from three and assign to integer variable x,integer x = 2 - 3
+subtract two from two and assign to integer variable x,integer x = 2 - 2
+subtract five from twenty and assign to integer variable x,integer x = 5 - 20
+subtract one from six and assign to integer variable x,integer x = 1 - 6
+subtract ten from fifteen and assign to integer variable x,integer x = 10 - 15
+subtract nine from seven and assign to integer variable x,integer x = 9 - 7
+subtract eight from two and assign to integer variable x,integer x = 8 - 2
+subtract four from twelve and assign to integer variable x,integer x = 4 - 12
+subtract twenty from twenty one and assign to integer variable x,integer x = 20 - 21
+subtract nineteen from fifteen and assign to integer variable x,integer x = 19 - 15
+subtract seventy five from ninety six and assign to integer variable x,integer x = 75 - 96
+subtract seventy from twelve and assign to integer variable x,integer x = 70 - 12
+subtract forty from ninety and assign to integer variable x,integer x = 40 - 90
+minus one from two and assign to integer variable x,integer x = 1 - 2
+minus one from three and assign to integer variable x,integer x = 1 - 3
+minus one from four and assign to integer variable x,integer x = 1 - 4
+minus two from three and assign to integer variable x,integer x = 2 - 3
+minus two from two and assign to integer variable x,integer x = 2 - 2
+minus five from twenty and assign to integer variable x,integer x = 5 - 20
+minus one from six and assign to integer variable x,integer x = 1 - 6
+minus ten from fifteen and assign to integer variable x,integer x = 10 - 15
+minus nine from seven and assign to integer variable x,integer x = 9 - 7
+minus eight from two and assign to integer variable x,integer x = 8 - 2
+minus four from twelve and assign to integer variable x,integer x = 4 - 12
+minus twenty from twenty one and assign to integer variable x,integer x = 20 - 21
+minus nineteen from fifteen and assign to integer variable x,integer x = 19 - 15
+minus seventy five from ninety six and assign to integer variable x,integer x = 75 - 96
+minus seventy from twelve and assign to integer variable x,integer x = 70 - 12
+minus forty from ninety and assign to integer variable x,integer x = 40 - 90
+multiply one and two and assign to integer variable x,integer x = 1 * 2
+multiply one and three and assign to integer variable x,integer x = 1 * 3
+multiply one and four and assign to integer variable x,integer x = 1 * 4
+multiply two and three and assign to integer variable x,integer x = 2 * 3
+multiply two and two and assign to integer variable x,integer x = 2 * 2
+multiply five and twenty and assign to integer variable x,integer x = 5 * 20
+multiply one and six and assign to integer variable x,integer x = 1 * 6
+multiply ten and fifteen and assign to integer variable x,integer x = 10 * 15
+multiply nine and seven and assign to integer variable x,integer x = 9 * 7
+multiply eight and two and assign to integer variable x,integer x = 8 * 2
+multiply four and twelve and assign to integer variable x,integer x = 4 * 12
+multiply twenty and twenty one and assign to integer variable x,integer x = 20 * 21
+multiply nineteen and fifteen and assign to integer variable x,integer x = 19 * 15
+multiply seventy five and ninety six and assign to integer variable x,integer x = 75 * 96
+multiply seventy and twelve and assign to integer variable x,integer x = 70 * 12
+multiply forty and ninety and assign to integer variable x,integer x = 40 * 90
+divide one and two and assign to integer variable x,integer x = 1 / 2
+divide one and three and assign to integer variable x,integer x = 1 / 3
+divide one and four and assign to integer variable x,integer x = 1 / 4
+divide two and three and assign to integer variable x,integer x = 2 / 3
+divide two and two and assign to integer variable x,integer x = 2 / 2
+divide five and twenty and assign to integer variable x,integer x = 5 / 20
+divide one and six and assign to integer variable x,integer x = 1 / 6
+divide ten and fifteen and assign to integer variable x,integer x = 10 / 15
+divide nine and seven and assign to integer variable x,integer x = 9 / 7
+divide eight and two and assign to integer variable x,integer x = 8 / 2
+divide four and twelve and assign to integer variable x,integer x = 4 / 12
+divide twenty and twenty one and assign to integer variable x,integer x = 20 / 21
+divide nineteen and fifteen and assign to integer variable x,integer x = 19 / 15
+divide seventy five and ninety six and assign to integer variable x,integer x = 75 / 96
+divide seventy and twelve and assign to integer variable x,integer x = 70 / 12
+divide forty and ninety and assign to integer variable x,integer x = 40 / 90
+integer x equal five modulus five,integer x = 5 mod 5
+integer x equal six modulus five,integer x = 6 mod 5
+integer x equal seven modulus five,integer x = 7 mod 5
+integer x equal eight modulus five,integer x = 8 mod 5
+integer x equal nine modulus five,integer x = 9 mod 5
+integer x equal ten modulus five,integer x = 10 mod 5
+integer y equal six modulus four,integer y = 6 mod 4
+integer count equal five modulus three,integer count = 5 mod 3
+integer count equal five modulus two,integer count = 5 mod 2
+integer count equal five modulus one,integer count = 5 mod 1
+integer count equal fifteen modulus six,integer count = 15 mod 6
+integer count equal thirty modulus eight,integer count = 30 mod 8
+integer total count equal five modulus three,integer total_count = 5 mod 3
+integer total count equal five modulus two,integer total_count = 5 mod 2
+integer total count equal five modulus one,integer total_count = 5 mod 1
+integer total count equal fifteen modulus six,integer total_count = 15 mod 6
+integer total count equal thirty modulus eight,integer total_count = 30 mod 8
+assign the remainder of dividing ten by five to variable x,integer x = 10 mod 5
+assign the remainder of dividing twenty by five to variable x,integer x = 20 mod 5
+assign the remainder of dividing eleven by two to variable x,integer x = 11 mod 2
+assign the remainder of dividing thirty one by twelve to variable x,integer x = 31 mod 12
+assign the remainder of dividing seventy six by twenty one to variable x,integer x = 76 mod 20
+assign the remainder of dividing ten by five to variable answer,integer answer = 10 mod 5
+assign the remainder of dividing twenty by five to variable answer,integer answer = 20 mod 5
+assign the remainder of dividing eleven by two to variable answer,integer answer = 11 mod 2
+assign the remainder of dividing thirty one by twelve to variable answer,integer answer = 31 mod 12
+assign the remainder of dividing seventy six by twenty one to variable answer,integer answer = 76 mod 20
+assign the remainder of dividing ten by five to variable seat count,integer seat_count = 10 mod 5
+assign the remainder of dividing twenty by five to variable seat count,integer seat_count = 20 mod 5
+assign the remainder of dividing eleven by two to variable seat count,integer seat_count = 11 mod 2
+assign the remainder of dividing thirty one by twelve to variable seat count,integer seat_count = 31 mod 12
+assign the remainder of dividing seventy six by twenty one to variable seat count,integer seat_count = 76 mod 20
+assign the remainder ten divided by five to variable x,integer x = 10 mod 5
+assign the remainder twenty divided by five to variable x,integer x = 20 mod 5
+assign the remainder eleven divided by two to variable x,integer x = 11 mod 2
+assign the remainder thirty one divided by twelve to variable x,integer x = 31 mod 12
+assign the remainder seventy six divided by twenty one to variable x,integer x = 76 mod 20
+assign the remainder ten divided by five to variable answer,integer answer = 10 mod 5
+assign the remainder twenty divided by five to variable answer,integer answer = 20 mod 5
+assign the remainder eleven divided by two to variable answer,integer answer = 11 mod 2
+assign the remainder thirty one divided by twelve to variable answer,integer answer = 31 mod 12
+assign the remainder seventy six divided by twenty one to variable answer,integer answer = 76 mod 20
+assign the remainder ten divided by five to variable seat count,integer seat_count = 10 mod 5
+assign the remainder twenty divided by five to variable seat count,integer seat_count = 20 mod 5
+assign the remainder eleven divided by two to variable seat count,integer seat_count = 11 mod 2
+assign the remainder thirty one divided by twelve to variable seat count,integer seat_count = 31 mod 12
+assign the remainder seventy six divided by twenty one to variable seat count,integer seat_count = 76 mod 20
+get user input to enter the name and assign it to string variable x,"text x = input(""Enter the name: "")"
+get user input to enter the name and assign it to text variable x,"text x = input(""Enter the name: "")"
+get user input to enter the name and assign it to integer variable x,"integer x = input(""Enter the name: "")"
+get user input to enter the name and assign it to number variable x,"number x = input(""Enter the name: "")"
+get user input for how old are you and assign it to string variable x,"text x = input(""How old are you: "")"
+get user input for how old are you and assign it to text variable x,"text x = input(""How old are you: "")"
+get user input for how old are you and assign it to integer variable x,"integer x = input(""How old are you: "")"
+get user input for how old are you and assign it to number variable x,"number x = input(""How old are you: "")"
+get user input to enter the password and assign it to string variable x,"text x = input(""Enter the password: "")"
+get user input to enter the password and assign it to text variable x,"text x = input(""Enter the password: "")"
+get user input to enter the password and assign it to integer variable x,"integer x = input(""Enter the password: "")"
+get user input to enter the password and assign it to number variable x,"number x = input(""Enter the password: "")"
+get user input to enter the email and assign it to string variable x,"text x = input(""Enter the email: "")"
+get user input to enter the email and assign it to text variable x,"text x = input(""Enter the email: "")"
+get user input to enter the email and assign it to integer variable x,"integer x = input(""Enter the email: "")"
+get user input to enter the email and assign it to number variable x,"number x = input(""Enter the email: "")"
+get user input to select an option and assign it to string variable x,"text x = input(""Select an option: "")"
+get user input to select an option and assign it to text variable x,"text x = input(""Select an option: "")"
+get user input to select an option and assign it to integer variable x,"integer x = input(""Select an option: "")"
+get user input to select an option and assign it to number variable x,"number x = input(""Select an option: "")"
+get user input to select preferred seat number and assign it to string variable x,"text x = input(""Select preferred seat number: "")"
+get user input to select preferred seat number and assign it to text variable x,"text x = input(""Select preferred seat number: "")"
+get user input to select preferred seat number and assign it to integer variable x,"integer x = input(""Select preferred seat number: "")"
+get user input to select preferred seat number and assign it to number variable x,"number x = input(""Select preferred seat number: "")"
+get user input to enter the name and assign it to string variable name,"textname= input(""Enter the name: "")"
+get user input to enter the name and assign it to text variable name,"textname= input(""Enter the name: "")"
+get user input to enter the name and assign it to integer variable name,"integername= input(""Enter the name: "")"
+get user input to enter the name and assign it to number variable name,"numbername= input(""Enter the name: "")"
+get user input for how old are you and assign it to string variable name,"textname= input(""How old are you: "")"
+get user input for how old are you and assign it to text variable name,"textname= input(""How old are you: "")"
+get user input for how old are you and assign it to integer variable name,"integername= input(""How old are you: "")"
+get user input for how old are you and assign it to number variable name,"numbername= input(""How old are you: "")"
+get user input to enter the password and assign it to string variable name,"textname= input(""Enter the password: "")"
+get user input to enter the password and assign it to text variable name,"textname= input(""Enter the password: "")"
+get user input to enter the password and assign it to integer variable name,"integername= input(""Enter the password: "")"
+get user input to enter the password and assign it to number variable name,"numbername= input(""Enter the password: "")"
+get user input to enter the email and assign it to string variable name,"textname= input(""Enter the email: "")"
+get user input to enter the email and assign it to text variable name,"textname= input(""Enter the email: "")"
+get user input to enter the email and assign it to integer variable name,"integername= input(""Enter the email: "")"
+get user input to enter the email and assign it to number variable name,"numbername= input(""Enter the email: "")"
+get user input to select an option and assign it to string variable name,"textname= input(""Select an option: "")"
+get user input to select an option and assign it to text variable name,"textname= input(""Select an option: "")"
+get user input to select an option and assign it to integer variable name,"integername= input(""Select an option: "")"
+get user input to select an option and assign it to number variable name,"numbername= input(""Select an option: "")"
+get user input to select preferred seat number and assign it to string variable name,"textname= input(""Select preferred seat number: "")"
+get user input to select preferred seat number and assign it to text variable name,"textname= input(""Select preferred seat number: "")"
+get user input to select preferred seat number and assign it to integer variable name,"integername= input(""Select preferred seat number: "")"
+get user input to select preferred seat number and assign it to number variable name,"numbername= input(""Select preferred seat number: "")"
+get user input to enter the name and assign it to string variable user input,"text user_input = input(""Enter the name: "")"
+get user input to enter the name and assign it to text variable user input,"text user_input = input(""Enter the name: "")"
+get user input to enter the name and assign it to integer variable user input,"integer user_input = input(""Enter the name: "")"
+get user input to enter the name and assign it to number variable user input,"number user_input = input(""Enter the name: "")"
+get user input for how old are you and assign it to string variable user input,"text user_input = input(""How old are you: "")"
+get user input for how old are you and assign it to text variable user input,"text user_input = input(""How old are you: "")"
+get user input for how old are you and assign it to integer variable user input,"integer user_input = input(""How old are you: "")"
+get user input for how old are you and assign it to number variable user input,"number user_input = input(""How old are you: "")"
+get user input to enter the password and assign it to string variable user input,"text user_input = input(""Enter the password: "")"
+get user input to enter the password and assign it to text variable user input,"text user_input = input(""Enter the password: "")"
+get user input to enter the password and assign it to integer variable user input,"integer user_input = input(""Enter the password: "")"
+get user input to enter the password and assign it to number variable user input,"number user_input = input(""Enter the password: "")"
+get user input to enter the email and assign it to string variable user input,"text user_input = input(""Enter the email: "")"
+get user input to enter the email and assign it to text variable user input,"text user_input = input(""Enter the email: "")"
+get user input to enter the email and assign it to integer variable user input,"integer user_input = input(""Enter the email: "")"
+get user input to enter the email and assign it to number variable user input,"number user_input = input(""Enter the email: "")"
+get user input to select an option and assign it to string variable user input,"text user_input = input(""Select an option: "")"
+get user input to select an option and assign it to text variable user input,"text user_input = input(""Select an option: "")"
+get user input to select an option and assign it to integer variable user input,"integer user_input = input(""Select an option: "")"
+get user input to select an option and assign it to number variable user input,"number user_input = input(""Select an option: "")"
+get user input to select preferred seat number and assign it to string variable user input,"text user_input = input(""Select preferred seat number: "")"
+get user input to select preferred seat number and assign it to text variable user input,"text user_input = input(""Select preferred seat number: "")"
+get user input to select preferred seat number and assign it to integer variable user input,"integer user_input = input(""Select preferred seat number: "")"
+get user input to select preferred seat number and assign it to number variable user input,"number user_input = input(""Select preferred seat number: "")"
+convert string value one to number type and assign to variable x,"number x = cast(number, ""1"")"
+convert string value two to number type and assign to variable x,"number x = cast(number, ""2"")"
+convert string value three to number type and assign to variable x,"number x = cast(number, ""3"")"
+convert string value four to number type and assign to variable x,"number x = cast(number, ""4"")"
+convert string value five to number type and assign to variable x,"number x = cast(number, ""5"")"
+convert string value six to number type and assign to variable x,"number x = cast(number, ""6"")"
+convert string value seven to number type and assign to variable x,"number x = cast(number, ""7"")"
+convert string value eight to number type and assign to variable x,"number x = cast(number, ""8"")"
+convert string value nine to number type and assign to variable x,"number x = cast(number, ""9"")"
+convert string value ten to number type and assign to variable x,"number x = cast(number, ""10"")"
+convert string value eleven to number type and assign to variable x,"number x = cast(number, ""11"")"
+convert string value twelve to number type and assign to variable x,"number x = cast(number, ""12"")"
+convert string value thirteen to number type and assign to variable x,"number x = cast(number, ""13"")"
+convert string value fourteen to number type and assign to variable x,"number x = cast(number, ""14"")"
+convert string value fifteen to number type and assign to variable x,"number x = cast(number, ""15"")"
+convert string value one to integer type and assign to variable x,"integer x = cast(integer, ""1"")"
+convert string value two to integer type and assign to variable x,"integer x = cast(integer, ""2"")"
+convert string value three to integer type and assign to variable x,"integer x = cast(integer, ""3"")"
+convert string value four to integer type and assign to variable x,"integer x = cast(integer, ""4"")"
+convert string value five to integer type and assign to variable x,"integer x = cast(integer, ""5"")"
+convert string value six to integer type and assign to variable x,"integer x = cast(integer, ""6"")"
+convert string value seven to integer type and assign to variable x,"integer x = cast(integer, ""7"")"
+convert string value eight to integer type and assign to variable x,"integer x = cast(integer, ""8"")"
+convert string value nine to integer type and assign to variable x,"integer x = cast(integer, ""9"")"
+convert string value ten to integer type and assign to variable x,"integer x = cast(integer, ""10"")"
+convert string value eleven to integer type and assign to variable x,"integer x = cast(integer, ""11"")"
+convert string value twelve to integer type and assign to variable x,"integer x = cast(integer, ""12"")"
+convert string value thirteen to integer type and assign to variable x,"integer x = cast(integer, ""13"")"
+convert string value fourteen to integer type and assign to variable x,"integer x = cast(integer, ""14"")"
+convert string value fifteen to integer type and assign to variable x,"integer x = cast(integer, ""15"")"
+convert integer value one to number type and assign to variable x,"number x = cast(number, 1)"
+convert integer value two to number type and assign to variable x,"number x = cast(number, 2)"
+convert integer value three to number type and assign to variable x,"number x = cast(number, 3)"
+convert integer value four to number type and assign to variable x,"number x = cast(number, 4)"
+convert integer value five to number type and assign to variable x,"number x = cast(number, 5)"
+convert integer value six to number type and assign to variable x,"number x = cast(number, 6)"
+convert integer value seven to number type and assign to variable x,"number x = cast(number, 7)"
+convert integer value eight to number type and assign to variable x,"number x = cast(number, 8)"
+convert integer value nine to number type and assign to variable x,"number x = cast(number, 9)"
+convert integer value ten to number type and assign to variable x,"number x = cast(number, 10)"
+convert integer value eleven to number type and assign to variable x,"number x = cast(number, 11)"
+convert integer value twelve to number type and assign to variable x,"number x = cast(number, 12)"
+convert integer value thirteen to number type and assign to variable x,"number x = cast(number, 13)"
+convert integer value fourteen to number type and assign to variable x,"number x = cast(number, 14)"
+convert integer value fifteen to number type and assign to variable x,"number x = cast(number, 15)"
+type cast string value one to number type and assign to variable x,"number x = cast(number, ""1"")"
+type cast string value two to number type and assign to variable x,"number x = cast(number, ""2"")"
+type cast string value three to number type and assign to variable x,"number x = cast(number, ""3"")"
+type cast string value four to number type and assign to variable x,"number x = cast(number, ""4"")"
+type cast string value five to number type and assign to variable x,"number x = cast(number, ""5"")"
+type cast string value six to number type and assign to variable x,"number x = cast(number, ""6"")"
+type cast string value seven to number type and assign to variable x,"number x = cast(number, ""7"")"
+type cast string value eight to number type and assign to variable x,"number x = cast(number, ""8"")"
+type cast string value nine to number type and assign to variable x,"number x = cast(number, ""9"")"
+type cast string value ten to number type and assign to variable x,"number x = cast(number, ""10"")"
+type cast string value eleven to number type and assign to variable x,"number x = cast(number, ""11"")"
+type cast string value twelve to number type and assign to variable x,"number x = cast(number, ""12"")"
+type cast string value thirteen to number type and assign to variable x,"number x = cast(number, ""13"")"
+type cast string value fourteen to number type and assign to variable x,"number x = cast(number, ""14"")"
+type cast string value fifteen to number type and assign to variable x,"number x = cast(number, ""15"")"
+type cast string value one to integer type and assign to variable x,"integer x = cast(integer, ""1"")"
+type cast string value two to integer type and assign to variable x,"integer x = cast(integer, ""2"")"
+type cast string value three to integer type and assign to variable x,"integer x = cast(integer, ""3"")"
+type cast string value four to integer type and assign to variable x,"integer x = cast(integer, ""4"")"
+type cast string value five to integer type and assign to variable x,"integer x = cast(integer, ""5"")"
+type cast string value six to integer type and assign to variable x,"integer x = cast(integer, ""6"")"
+type cast string value seven to integer type and assign to variable x,"integer x = cast(integer, ""7"")"
+type cast string value eight to integer type and assign to variable x,"integer x = cast(integer, ""8"")"
+type cast string value nine to integer type and assign to variable x,"integer x = cast(integer, ""9"")"
+type cast string value ten to integer type and assign to variable x,"integer x = cast(integer, ""10"")"
+type cast string value eleven to integer type and assign to variable x,"integer x = cast(integer, ""11"")"
+type cast string value twelve to integer type and assign to variable x,"integer x = cast(integer, ""12"")"
+type cast string value thirteen to integer type and assign to variable x,"integer x = cast(integer, ""13"")"
+type cast string value fourteen to integer type and assign to variable x,"integer x = cast(integer, ""14"")"
+type cast string value fifteen to integer type and assign to variable x,"integer x = cast(integer, ""15"")"
+type cast integer value one to number type and assign to variable x,"number x = cast(number, 1)"
+type cast integer value two to number type and assign to variable x,"number x = cast(number, 2)"
+type cast integer value three to number type and assign to variable x,"number x = cast(number, 3)"
+type cast integer value four to number type and assign to variable x,"number x = cast(number, 4)"
+type cast integer value five to number type and assign to variable x,"number x = cast(number, 5)"
+type cast integer value six to number type and assign to variable x,"number x = cast(number, 6)"
+type cast integer value seven to number type and assign to variable x,"number x = cast(number, 7)"
+type cast integer value eight to number type and assign to variable x,"number x = cast(number, 8)"
+type cast integer value nine to number type and assign to variable x,"number x = cast(number, 9)"
+type cast integer value ten to number type and assign to variable x,"number x = cast(number, 10)"
+type cast integer value eleven to number type and assign to variable x,"number x = cast(number, 11)"
+type cast integer value twelve to number type and assign to variable x,"number x = cast(number, 12)"
+type cast integer value thirteen to number type and assign to variable x,"number x = cast(number, 13)"
+type cast integer value fourteen to number type and assign to variable x,"number x = cast(number, 14)"
+type cast integer value fifteen to number type and assign to variable x,"number x = cast(number, 15)"
+type cast number value one to integer type and assign to variable x,"number x = cast(number, 1.0)"
+type cast number value two to integer type and assign to variable x,"number x = cast(number, 2.0)"
+type cast number value three to integer type and assign to variable x,"number x = cast(number, 3.0)"
+type cast number value four to integer type and assign to variable x,"number x = cast(number, 4.0)"
+type cast number value five to integer type and assign to variable x,"number x = cast(number, 5.0)"
+type cast number value six to integer type and assign to variable x,"number x = cast(number, 6.0)"
+type cast number value seven to integer type and assign to variable x,"number x = cast(number, 7.0)"
+type cast number value eight to integer type and assign to variable x,"number x = cast(number, 8.0)"
+type cast number value nine to integer type and assign to variable x,"number x = cast(number, 9.0)"
+type cast number value ten to integer type and assign to variable x,"number x = cast(number, 10.0)"
+type cast number value eleven to integer type and assign to variable x,"number x = cast(number, 11.0)"
+type cast number value twelve to integer type and assign to variable x,"number x = cast(number, 12.0)"
+type cast number value thirteen to integer type and assign to variable x,"number x = cast(number, 13.0)"
+type cast number value fourteen to integer type and assign to variable x,"number x = cast(number, 14.0)"
+type cast number value fifteen to integer type and assign to variable x,"number x = cast(number, 15.0)"
+add a comment x,// x
+add a multiline comment x,/* x */
+add a comment word,// Word
+add a multiline comment word,/* Word */
+add a comment hello world,// Hello world
+add a multiline comment hello world,/* Hello world */
+add a comment word hello name,// Word hello name
+add a multiline comment word hello name,/* Word hello name */
+add a comment this is a comment,// This is a comment
+add a multiline comment this is a comment,/* This is a comment. */
+add this is a comment as a comment,// This is a comment
+add this is a comment as a multiline comment,/* This is a comment. */
+add a comment this is a single line comment.,// This is a single line comment.
+add a multiline comment this is a single line comment.,/* This is a single line comment.*/
+add this is a single line comment as a comment,// This is a single line comment
+add this is a single line comment as a multiline comment,/* This is a single line comment. */
+add a comment this code calculates the average of two numbers,// This code calculates the average of two numbers
+add a multiline comment this code calculates the average of two numbers,/* This code calculates the average of two numbers. */
+add this code calculates the average of two numbers as a comment,// This code calculates the average of two numbers
+add this code calculates the average of two numbers as a multiline comment,/* This code calculates the average of two numbers. */
+add a comment method to add two numbers,// Method to add two numbers
+add a multiline comment method to add two numbers,/* Method to add two numbers. */
+add method to add two numbers as a comment,// Method to add two numbers
+add method to add two numbers as a multiline comment,/* Method to add two numbers. */
+add a comment taking user name as input,// Taking user name as input
+add a multiline comment taking user name as input,/* Taking user name as input. */
+add taking user name as input as a comment,// Taking user name as input
+add taking user name as input as a multiline comment,/* Taking user name as input. */
+add a comment concatenating two strings,// Concatenating two strings
+add a multiline comment concatenating two strings,/* Concatenating two strings. */
+add concatenating two strings as a comment,// Concatenating two strings
+add concatenating two strings as a multiline comment,/* Concatenating two strings. */
+concatenate one and two and assign to text total of salary ,"text total_of_salary = ""one"" + ""two"""
+concatenateone and two and assign to text variable total of salary ,"text total_of_salary = ""one"" + ""two"""
+create text total of salary and concatenate one and two,"text total_of_salary = ""one"" + ""two"""
+text total of salary equals one plus two,"text total_of_salary = ""one"" + ""two"""
+concatenate one and two and assign to text count of numbers ,"text count_of_numbers = ""one"" + ""two"""
+concatenateone and two and assign to text variable count of numbers ,"text count_of_numbers = ""one"" + ""two"""
+create text count of numbers and concatenate one and two,"text count_of_numbers = ""one"" + ""two"""
+text count of numbers equals one plus two,"text count_of_numbers = ""one"" + ""two"""
+concatenate fire and fox and assign to text x ,"text x = ""fire"" + ""fox"""
+concatenate fire and fox and assign to text variable x ,"text x = ""fire"" + ""fox"""
+create text x and concatenate fire and fox,"text x = ""fire"" + ""fox"""
+text x equals fire plus fox,"text x = ""fire"" + ""fox"""
+concatenate my name is and animal and assign to text x ,"text x = ""my name is"" + ""animal"""
+concatenate my name is and animal and assign to text variable x ,"text x = ""my name is"" + ""animal"""
+create text x and concatenate my name is and animal,"text x = ""my name is"" + ""animal"""
+text x equals my name is plus animal,"text x = ""my name is"" + ""animal"""
+concatenate grass and is a plant and assign to text x ,"text x = ""grass"" + ""is a plant"""
+concatenate grass and is a plant and assign to text variable x ,"text x = ""grass"" + ""is a plant"""
+create text x and concatenate grass and is a plant,"text x = ""grass"" + ""is a plant"""
+text x equals grass plus is a plant,"text x = ""grass"" + ""is a plant"""
+concatenate fire and fox and assign to text word ,"text word = ""fire"" + ""fox"""
+concatenate fire and fox and assign to text variable word ,"text word = ""fire"" + ""fox"""
+create text word and concatenate fire and fox,"text word = ""fire"" + ""fox"""
+text word equals fire plus fox,"text word = ""fire"" + ""fox"""
+concatenate my name is and animal and assign to text word ,"text word = ""my name is"" + ""animal"""
+concatenate my name is and animal and assign to text variable word ,"text word = ""my name is"" + ""animal"""
+create text word and concatenate my name is and animal,"text word = ""my name is"" + ""animal"""
+text word equals my name is plus animal,"text word = ""my name is"" + ""animal"""
+concatenate grass and is a plant and assign to text word ,"text word = ""grass"" + ""is a plant"""
+concatenate grass and is a plant and assign to text variable word ,"text word = ""grass"" + ""is a plant"""
+create text word and concatenate grass and is a plant,"text word = ""grass"" + ""is a plant"""
+text word equals grass plus is a plant,"text word = ""grass"" + ""is a plant"""
+concatenate fire and fox and assign to text two word ,"text two_word = ""fire"" + ""fox"""
+concatenate fire and fox and assign to text variable two word ,"text two_word = ""fire"" + ""fox"""
+create text two word and concatenate fire and fox,"text two_word = ""fire"" + ""fox"""
+text two word equals fire plus fox,"text two_word = ""fire"" + ""fox"""
+concatenate my name is and animal and assign to text two word ,"text two_word = ""my name is"" + ""animal"""
+concatenate my name is and animal and assign to text variable two word ,"text two_word = ""my name is"" + ""animal"""
+create text two word and concatenate my name is and animal,"text two_word = ""my name is"" + ""animal"""
+text two word equals my name is plus animal,"text two_word = ""my name is"" + ""animal"""
+concatenate grass and is a plant and assign to text two word ,"text two_word = ""grass"" + ""is a plant"""
+concatenate grass and is a plant and assign to text variable two word ,"text two_word = ""grass"" + ""is a plant"""
+create text two word and concatenate grass and is a plant,"text two_word = ""grass"" + ""is a plant"""
+text two word equals grass plus is a plant,"text two_word = ""grass"" + ""is a plant"""
+concatenate fire and fox and assign to text three word combination ,"text three_word_combination = ""fire"" + ""fox"""
+concatenate fire and fox and assign to text variable three word combination ,"text three_word_combination = ""fire"" + ""fox"""
+create text three word combination and concatenate fire and fox,"text three_word_combination = ""fire"" + ""fox"""
+text three word combination equals fire plus fox,"text three_word_combination = ""fire"" + ""fox"""
+concatenate my name is and animal and assign to text three word combination ,"text three_word_combination = ""my name is"" + ""animal"""
+concatenate my name is and animal and assign to text variable three word combination ,"text three_word_combination = ""my name is"" + ""animal"""
+create text three word combination and concatenate my name is and animal,"text three_word_combination = ""my name is"" + ""animal"""
+text three word combination equals my name is plus animal,"text three_word_combination = ""my name is"" + ""animal"""
+concatenate grass and is a plant and assign to text three word combination ,"text three_word_combination = ""grass"" + ""is a plant"""
+concatenate grass and is a plant and assign to text variable three word combination ,"text three_word_combination = ""grass"" + ""is a plant"""
+create text three word combination and concatenate grass and is a plant,"text three_word_combination = ""grass"" + ""is a plant"""
+text three word combination equals grass plus is a plant,"text three_word_combination = ""grass"" + ""is a plant"""
+boolean a equal five greater than six,boolean a = 5 > 6
+boolean a equal five greater than seven,boolean a = 5 > 7
+boolean a equal five greater than eight,boolean a = 5 > 8
+boolean a equal five greater than nine,boolean a = 5 > 9
+boolean a equal five greater than ten,boolean a = 5 > 10
+boolean a equal five greater than eleven,boolean a = 5 > 11
+boolean b equal five greater than or equal to six,boolean b = 5 >= 6
+boolean b equal five greater than or equal to seven,boolean b = 5 >= 7
+boolean b equal five greater than or equal to eight,boolean b = 5 >= 8
+boolean b equal five greater than or equal to nine,boolean b = 5 >= 9
+boolean b equal five greater than or equal to ten,boolean b = 5 >= 10
+boolean b equal five greater than or equal to eleven,boolean b = 5 >= 11
+boolean a equal true and true,boolean a = true and true
+boolean b equal true and true,boolean b = true and true
+boolean c equal true and true,boolean c = true and true
+boolean a equal true and false,boolean a = true and false
+boolean b equal true and false,boolean b = true and false
+boolean c equal true and false,boolean c = true and false
+boolean a equal true or true,boolean a = true or true
+boolean b equal true or true,boolean b = true or true
+boolean c equal true or true,boolean c = true or true
+boolean a equal true or false,boolean a = true or false
+boolean b equal true or false,boolean b = true or false
+boolean c equal true or false,boolean c = true or false
+add one to variable x and update variable x,x = x + 1
+add one to the current value of x and update its value,x = x + 1
+add two to variable x and update variable x,x = x + 2
+add two to the current value of x and update its value,x = x + 2
+add three to variable x and update variable x,x = x + 3
+add three to the current value of x and update its value,x = x + 3
+add four to variable x and update variable x,x = x + 4
+add four to the current value of x and update its value,x = x + 4
+add five to variable x and update variable x,x = x + 5
+add five to the current value of x and update its value,x = x + 5
+add one to variable count and update variable count,count = count + 1
+add one to the current value of count and update its value,count = count + 1
+add two to variable count and update variable count,count = count + 2
+add two to the current value of count and update its value,count = count + 2
+add three to variable count and update variable count,count = count + 3
+add three to the current value of count and update its value,count = count + 3
+add four to variable count and update variable count,count = count + 4
+add four to the current value of count and update its value,count = count + 4
+add five to variable count and update variable count,count = count + 5
+add five to the current value of count and update its value,count = count + 5
+add one to variable count total and update variable count total,count_total = count_total + 1
+add one to the current value of count total and update its value,count_total = count_total + 1
+add two to variable count total and update variable count total,count_total = count_total + 2
+add two to the current value of count total and update its value,count_total = count_total + 2
+add three to variable count total and update variable count total,count_total = count_total + 3
+add three to the current value of count total and update its value,count_total = count_total + 3
+add four to variable count total and update variable count total,count_total = count_total + 4
+add four to the current value of count total and update its value,count_total = count_total + 4
+add five to variable count total and update variable count total,count_total = count_total + 5
+add five to the current value of count total and update its value,count_total = count_total + 5
+if x equals to one print hello world,"if x = 1 $$ output ""hello world"" $ end"
+if x equals to one output hello world,"if x = 1 $$ output ""hello world"" $ end"
+if x equals to one add one to variable x and update variable x,if x = 1 $$ x = x + 1 $ end
+if x equals to one add one to the current value of x and update its value,if x = 1 $$ x = x + 1 $ end
+if x equals to one print hello world,"if x = 1 $$ output ""hello world"" $ end"
+if x equals to one output hello world,"if x = 1 $$ output ""hello world"" $ end"
+if x equals to one add two to variable x and update variable x,if x = 1 $$ x = x + 2 $ end
+if x equals to one add two to the current value of x and update its value,if x = 1 $$ x = x + 2 $ end
+if x equals to one print hello world,"if x = 1 $$ output ""hello world"" $ end"
+if x equals to one output hello world,"if x = 1 $$ output ""hello world"" $ end"
+if x equals to one add three to variable x and update variable x,if x = 1 $$ x = x + 3 $ end
+if x equals to one add three to the current value of x and update its value,if x = 1 $$ x = x + 3 $ end
+if x equals to two print hello world,"if x = 2 $$ output ""hello world"" $ end"
+if x equals to two output hello world,"if x = 2 $$ output ""hello world"" $ end"
+if x equals to two add two to variable x and update variable x,if x = 2 $$ x = x + 1 $ end
+if x equals to two add two to the current value of x and update its value,if x = 2 $$ x = x + 1 $ end
+if x equals to two print hello world,"if x = 2 $$ output ""hello world"" $ end"
+if x equals to two output hello world,"if x = 2 $$ output ""hello world"" $ end"
+if x equals to two add two to variable x and update variable x,if x = 2 $$ x = x + 2 $ end
+if x equals to two add two to the current value of x and update its value,if x = 2 $$ x = x + 2 $ end
+if x equals to two print hello world,"if x = 2 $$ output ""hello world"" $ end"
+if x equals to two output hello world,"if x = 2 $$ output ""hello world"" $ end"
+if x equals to two add three to variable x and update variable x,if x = 2 $$ x = x + 3 $ end
+if x equals to two add three to the current value of x and update its value,if x = 2 $$ x = x + 3 $ end
+if x equals to three print hello world,"if x = 3 $$ output ""hello world"" $ end"
+if x equals to three output hello world,"if x = 3 $$ output ""hello world"" $ end"
+if x equals to three add three to variable x and update variable x,if x = 3 $$ x = x + 1 $ end
+if x equals to three add three to the current value of x and update its value,if x = 3 $$ x = x + 1 $ end
+if x equals to three print hello world,"if x = 3 $$ output ""hello world"" $ end"
+if x equals to three output hello world,"if x = 3 $$ output ""hello world"" $ end"
+if x equals to three add two to variable x and update variable x,if x = 3 $$ x = x + 2 $ end
+if x equals to three add two to the current value of x and update its value,if x = 3 $$ x = x + 2 $ end
+if x equals to three print hello world,"if x = 3 $$ output ""hello world"" $ end"
+if x equals to three output hello world,"if x = 3 $$ output ""hello world"" $ end"
+if x equals to three add three to variable x and update variable x,if x = 3 $$ x = x + 3 $ end
+if x equals to three add three to the current value of x and update its value,if x = 3 $$ x = x + 3 $ end
+if x equals to one,if x = 1
+if x equals to two,if x = 2
+if x equals to three,if x = 3
+if x equals to four,if x = 4
+if x equals to five,if x = 5
+if x equals to six,if x = 6
+if x equals to seven,if x = 7
+if x equals to eight,if x = 8
+if x equals to nine,if x = 9
+if x equals to ten,if x = 10
+if x equals to eleven,if x = 11
+if x equals to twelve,if x = 12
+if x equals to thirteen,if x = 13
+if x equals to fourteen,if x = 14
+if x equals to fifteen,if x = 15
+if y equals to one,if y = 1
+if y equals to two,if y = 2
+if y equals to three,if y = 3
+if y equals to four,if y = 4
+if y equals to five,if y = 5
+if y equals to six,if y = 6
+if y equals to seven,if y = 7
+if y equals to eight,if y = 8
+if y equals to nine,if y = 9
+if y equals to ten,if y = 10
+if y equals to eleven,if y = 11
+if y equals to twelve,if y = 12
+if y equals to thirteen,if y = 13
+if y equals to fourteen,if y = 14
+if y equals to fifteen,if y = 15
+repeat ten times,repeat 10 times
+repeat two times,repeat 2 times
+repeat four times,repeat 4 times
+repeat three times,repeat 3 times
+repeat six times,repeat 6 times
+repeat it while a greater than 15,repeat while a > 15
+repeat it while a greater than 16,repeat while a > 16
+repeat it while b greater than 17,repeat while b > 17
+repeat it while b greater than 18,repeat while b > 18
+repeat it while b greater than 19,repeat while b > 19
+repeat it while b greater than 20,repeat while b > 20
+repeat it until a greater than or equal to 15,repeat until a >= 15
+repeat it until a greater than or equal to 16,repeat until a >= 16
+repeat it until a greater than or equal to 17,repeat until a >= 17
+repeat it until a greater than or equal to 18,repeat until a >= 18
+repeat it until a greater than or equal to 19,repeat until a >= 19
+repeat it until a greater than or equal to 20,repeat until a >= 20
+initiate integer x with value twenty one,integer x = 21
+initiate number x with value twenty one,number x = 21.0
+initiate text x with value twenty one,"text x = ""21"""
+initiate string x with value twenty one,"text x = ""21"""
+initiate number x with value twenty point one,number x = 20.1
+initiate text x with value twenty point one,"text x = ""20.1"""
+initiate string x with value twenty point one,"text x = ""20.1"""
+initiate integer x with value twenty two,integer x = 22
+initiate number x with value twenty two,number x = 22.0
+initiate text x with value twenty two,"text x = ""22"""
+initiate string x with value twenty two,"text x = ""22"""
+initiate number x with value twenty point two,number x = 20.2
+initiate text x with value twenty point two,"text x = ""20.2"""
+initiate string x with value twenty point two,"text x = ""20.2"""
+initiate integer x with value twenty three,integer x = 23
+initiate number x with value twenty three,number x = 23.0
+initiate text x with value twenty three,"text x = ""23"""
+initiate string x with value twenty three,"text x = ""23"""
+initiate number x with value twenty point three,number x = 20.3
+initiate text x with value twenty point three,"text x = ""20.3"""
+initiate string x with value twenty point three,"text x = ""20.3"""
+initiate number x with value forty one,number x = 41.0
+initiate text x with value forty one,"text x = ""41"""
+initiate string x with value forty one,"text x = ""41"""
+initiate number x with value forty point one,number x = 40.1
+initiate text x with value forty point one,"text x = ""40.1"""
+initiate string x with value forty point one,"text x = ""40.1"""
+initiate integer x with value forty two,integer x = 42
+initiate number x with value forty two,number x = 42.0
+initiate text x with value forty two,"text x = ""42"""
+initiate string x with value forty two,"text x = ""42"""
+initiate number x with value forty point two,number x = 40.2
+initiate text x with value forty point two,"text x = ""40.2"""
+initiate string x with value forty point two,"text x = ""40.2"""
+initiate integer x with value forty three,integer x = 43
+initiate number x with value forty three,number x = 43.0
+initiate text x with value forty three,"text x = ""43"""
+initiate string x with value forty three,"text x = ""43"""
+initiate number x with value forty point three,number x = 40.3
+initiate text x with value forty point three,"text x = ""40.3"""
+initiate string x with value forty point three,"text x = ""40.3"""
+initiate number x with value seventy one,number x = 71.0
+initiate text x with value seventy one,"text x = ""71"""
+initiate string x with value seventy one,"text x = ""71"""
+initiate number x with value seventy point one,number x = 70.1
+initiate text x with value seventy point one,"text x = ""70.1"""
+initiate string x with value seventy point one,"text x = ""70.1"""
+initiate integer x with value seventy two,integer x = 72
+initiate number x with value seventy two,number x = 72.0
+initiate text x with value seventy two,"text x = ""72"""
+initiate string x with value seventy two,"text x = ""72"""
+initiate number x with value seventy point two,number x = 70.2
+initiate text x with value seventy point two,"text x = ""70.2"""
+initiate string x with value seventy point two,"text x = ""70.2"""
+initiate integer x with value seventy three,integer x = 73
+initiate number x with value seventy three,number x = 73.0
+initiate text x with value seventy three,"text x = ""73"""
+initiate string x with value seventy three,"text x = ""73"""
+initiate number x with value seventy point three,number x = 70.3
+initiate text x with value seventy point three,"text x = ""70.3"""
+initiate string x with value seventy point three,"text x = ""70.3"""
+add five plus twenty and assign to integer variable x,integer x = 5 + 20
+add ten plus fifteen and assign to integer variable x,integer x = 10 + 15
+add nine plus seven and assign to integer variable x,integer x = 9 + 7
+add four plus twelve and assign to integer variable x,integer x = 4 + 12
+add twenty plus twenty one and assign to integer variable x,integer x = 20 + 21
+add nineteen plus fifteen and assign to integer variable x,integer x = 19 + 15
+add five plus twenty and assign to integer variable hello,integer hello = 5 + 20
+add ten plus fifteen and assign to integer variable hello,integer hello = 10 + 15
+add nine plus seven and assign to integer variable hello,integer hello = 9 + 7
+add four plus twelve and assign to integer variable hello,integer hello = 4 + 12
+add twenty plus twenty one and assign to integer variable hello,integer hello = 20 + 21
+add nineteen plus fifteen and assign to integer variable hello,integer hello = 19 + 15
+add five plus twenty and assign to integer variable total count,integer total_count = 5 + 20
+add ten plus fifteen and assign to integer variable total count,integer total_count = 10 + 15
+add nine plus seven and assign to integer variable total count,integer total_count = 9 + 7
+add four plus twelve and assign to integer variable total count,integer total_count = 4 + 12
+add twenty plus twenty one and assign to integer variable total count,integer total_count = 20 + 21
+add nineteen plus fifteen and assign to integer variable total count,integer total_count = 19 + 15
+add five plus twenty and assign to integer variable total marks count,integer total_marks_count = 5 + 20
+add ten plus fifteen and assign to integer variable total marks count,integer total_marks_count = 10 + 15
+add nine plus seven and assign to integer variable total marks count,integer total_marks_count = 9 + 7
+add four plus twelve and assign to integer variable total marks count,integer total_marks_count = 4 + 12
+add twenty plus twenty one and assign to integer variable total marks count,integer total_marks_count = 20 + 21
+add nineteen plus fifteen and assign to integer variable total marks count,integer total_marks_count = 19 + 15
+subtract five from twenty and assign to integer variable x,integer x = 5 - 20
+subtract ten from fifteen and assign to integer variable x,integer x = 10 - 15
+subtract nine from seven and assign to integer variable x,integer x = 9 - 7
+subtract four from twelve and assign to integer variable x,integer x = 4 - 12
+subtract twenty from twenty one and assign to integer variable x,integer x = 20 - 21
+subtract nineteen from fifteen and assign to integer variable x,integer x = 19 - 15
+subtract five from twenty and assign to integer variable marks,integer marks = 5 - 20
+subtract ten from fifteen and assign to integer variable marks,integer marks = 10 - 15
+subtract nine from seven and assign to integer variable marks,integer marks = 9 - 7
+subtract four from twelve and assign to integer variable marks,integer marks = 4 - 12
+subtract twenty from twenty one and assign to integer variable marks,integer marks = 20 - 21
+subtract nineteen from fifteen and assign to integer variable marks,integer marks = 19 - 15
+subtract five from twenty and assign to integer variable total marks,integer total_marks = 5 - 20
+subtract ten from fifteen and assign to integer variable total marks,integer total_marks = 10 - 15
+subtract nine from seven and assign to integer variable total marks,integer total_marks = 9 - 7
+subtract four from twelve and assign to integer variable total marks,integer total_marks = 4 - 12
+subtract twenty from twenty one and assign to integer variable total marks,integer total_marks = 20 - 21
+subtract nineteen from fifteen and assign to integer variable total marks,integer total_marks = 19 - 15
+subtract five from twenty and assign to integer variable total average marks,integer total_average_marks = 5 - 20
+subtract ten from fifteen and assign to integer variable total average marks,integer total_average_marks = 10 - 15
+subtract nine from seven and assign to integer variable total average marks,integer total_average_marks = 9 - 7
+subtract four from twelve and assign to integer variable total average marks,integer total_average_marks = 4 - 12
+subtract twenty from twenty one and assign to integer variable total average marks,integer total_average_marks = 20 - 21
+subtract nineteen from fifteen and assign to integer variable total average marks,integer total_average_marks = 19 - 15
+multiply five and twenty and assign to integer variable x,integer x = 5 * 20
+multiply ten and fifteen and assign to integer variable x,integer x = 10 * 15
+multiply nine and seven and assign to integer variable x,integer x = 9 * 7
+multiply four and twelve and assign to integer variable x,integer x = 4 * 12
+multiply twenty and twenty one and assign to integer variable x,integer x = 20 * 21
+multiply nineteen and fifteen and assign to integer variable x,integer x = 19 * 15
+multiply five and twenty and assign to integer variable hello,integer hello = 5 * 20
+multiply ten and fifteen and assign to integer variable hello,integer hello = 10 * 15
+multiply nine and seven and assign to integer variable hello,integer hello = 9 * 7
+multiply four and twelve and assign to integer variable hello,integer hello = 4 * 12
+multiply twenty and twenty one and assign to integer variable hello,integer hello = 20 * 21
+multiply nineteen and fifteen and assign to integer variable hello,integer hello = 19 * 15
+multiply five and twenty and assign to integer variable total count,integer total_count = 5 * 20
+multiply ten and fifteen and assign to integer variable total count,integer total_count = 10 * 15
+multiply nine and seven and assign to integer variable total count,integer total_count = 9 * 7
+multiply four and twelve and assign to integer variable total count,integer total_count = 4 * 12
+multiply twenty and twenty one and assign to integer variable total count,integer total_count = 20 * 21
+multiply nineteen and fifteen and assign to integer variable total count,integer total_count = 19 * 15
+multiply five and twenty and assign to integer variable total marks count,integer total_marks_count = 5 * 20
+multiply ten and fifteen and assign to integer variable total marks count,integer total_marks_count = 10 * 15
+multiply nine and seven and assign to integer variable total marks count,integer total_marks_count = 9 * 7
+multiply four and twelve and assign to integer variable total marks count,integer total_marks_count = 4 * 12
+multiply twenty and twenty one and assign to integer variable total marks count,integer total_marks_count = 20 * 21
+multiply nineteen and fifteen and assign to integer variable total marks count,integer total_marks_count = 19 * 15
+divide five and twenty and assign to integer variable x,integer x = 5 / 20
+divide ten and fifteen and assign to integer variable x,integer x = 10 / 15
+divide nine and seven and assign to integer variable x,integer x = 9 / 7
+divide four and twelve and assign to integer variable x,integer x = 4 / 12
+divide twenty and twenty one and assign to integer variable x,integer x = 20 / 21
+divide nineteen and fifteen and assign to integer variable x,integer x = 19 / 15
+divide five and twenty and assign to integer variable hello,integer hello = 5 / 20
+divide ten and fifteen and assign to integer variable hello,integer hello = 10 / 15
+divide nine and seven and assign to integer variable hello,integer hello = 9 / 7
+divide four and twelve and assign to integer variable hello,integer hello = 4 / 12
+divide twenty and twenty one and assign to integer variable hello,integer hello = 20 / 21
+divide nineteen and fifteen and assign to integer variable hello,integer hello = 19 / 15
+divide five and twenty and assign to integer variable total count,integer total_count = 5 / 20
+divide ten and fifteen and assign to integer variable total count,integer total_count = 10 / 15
+divide nine and seven and assign to integer variable total count,integer total_count = 9 / 7
+divide four and twelve and assign to integer variable total count,integer total_count = 4 / 12
+divide twenty and twenty one and assign to integer variable total count,integer total_count = 20 / 21
+divide nineteen and fifteen and assign to integer variable total count,integer total_count = 19 / 15
+divide five and twenty and assign to integer variable total marks count,integer total_marks_count = 5 / 20
+divide ten and fifteen and assign to integer variable total marks count,integer total_marks_count = 10 / 15
+divide nine and seven and assign to integer variable total marks count,integer total_marks_count = 9 / 7
+divide four and twelve and assign to integer variable total marks count,integer total_marks_count = 4 / 12
+divide twenty and twenty one and assign to integer variable total marks count,integer total_marks_count = 20 / 21
+divide nineteen and fifteen and assign to integer variable total marks count,integer total_marks_count = 19 / 15
+integer y equal five plus five,integer y = 5 + 5
+integer y equal five plus six,integer y = 5 + 6
+integer y equal five plus seven,integer y = 5 + 7
+integer y equal five plus eight,integer y = 5 + 8
+integer y equal five plus nine,integer y = 5 + 9
+integer distance equal five plus five,integer distance = 5 + 5
+integer distance equal five plus six,integer distance = 5 + 6
+integer distance equal five plus seven,integer distance = 5 + 7
+integer distance equal five plus eight,integer distance = 5 + 8
+integer distance equal five plus nine,integer distance = 5 + 9
+integer total distance equal five plus five,integer total_distance = 5 + 5
+integer total distance equal five plus six,integer total_distance = 5 + 6
+integer total distance equal five plus seven,integer total_distance = 5 + 7
+integer total distance equal five plus eight,integer total_distance = 5 + 8
+integer total distance equal five plus nine,integer total_distance = 5 + 9
+integer total distance count equal five plus five,integer total_distance_count = 5 + 5
+integer total distance count equal five plus six,integer total_distance_count = 5 + 6
+integer total distance count equal five plus seven,integer total_distance_count = 5 + 7
+integer total distance count equal five plus eight,integer total_distance_count = 5 + 8
+integer total distance count equal five plus nine,integer total_distance_count = 5 + 9
+integer y equal five minus five,integer y = 5 - 5
+integer y equal five minus six,integer y = 5 - 6
+integer y equal five minus seven,integer y = 5 - 7
+integer y equal five minus eight,integer y = 5 - 8
+integer y equal five minus nine,integer y = 5 - 9
+integer distance equal five minus five,integer distance = 5 - 5
+integer distance equal five minus six,integer distance = 5 - 6
+integer distance equal five minus seven,integer distance = 5 - 7
+integer distance equal five minus eight,integer distance = 5 - 8
+integer distance equal five minus nine,integer distance = 5 - 9
+integer total distance equal five minus five,integer total_distance = 5 - 5
+integer total distance equal five minus six,integer total_distance = 5 - 6
+integer total distance equal five minus seven,integer total_distance = 5 - 7
+integer total distance equal five minus eight,integer total_distance = 5 - 8
+integer total distance equal five minus nine,integer total_distance = 5 - 9
+integer total distance count equal five minus five,integer total_distance_count = 5 - 5
+integer total distance count equal five minus six,integer total_distance_count = 5 - 6
+integer total distance count equal five minus seven,integer total_distance_count = 5 - 7
+integer total distance count equal five minus eight,integer total_distance_count = 5 - 8
+integer total distance count equal five minus nine,integer total_distance_count = 5 - 9
+integer y equal five times five,integer y = 5 * 5
+integer y equal five times six,integer y = 5 * 6
+integer y equal five times seven,integer y = 5 * 7
+integer y equal five times eight,integer y = 5 * 8
+integer y equal five times nine,integer y = 5 * 9
+integer y equal five multiplied by five,integer y = 5 * 5
+integer y equal five multiplied by six,integer y = 5 * 6
+integer y equal five multiplied by seven,integer y = 5 * 7
+integer y equal five multiplied by eight,integer y = 5 * 8
+integer y equal five multiplied by nine,integer y = 5 * 9
+integer distance equal five times five,integer distance = 5 * 5
+integer distance equal five times six,integer distance = 5 * 6
+integer distance equal five times seven,integer distance = 5 * 7
+integer distance equal five times eight,integer distance = 5 * 8
+integer distance equal five times nine,integer distance = 5 * 9
+integer distance equal five multiplied by five,integer distance = 5 * 5
+integer distance equal five multiplied by six,integer distance = 5 * 6
+integer distance equal five multiplied by seven,integer distance = 5 * 7
+integer distance equal five multiplied by eight,integer distance = 5 * 8
+integer distance equal five multiplied by nine,integer distance = 5 * 9
+integer total distance equal five times five,integer total_distance = 5 * 5
+integer total distance equal five times six,integer total_distance = 5 * 6
+integer total distance equal five times seven,integer total_distance = 5 * 7
+integer total distance equal five times eight,integer total_distance = 5 * 8
+integer total distance equal five times nine,integer total_distance = 5 * 9
+integer total distance count equal five times five,integer total_distance_count = 5 * 5
+integer total distance count equal five times six,integer total_distance_count = 5 * 6
+integer total distance count equal five times seven,integer total_distance_count = 5 * 7
+integer total distance count equal five times eight,integer total_distance_count = 5 * 8
+integer total distance count equal five times nine,integer total_distance_count = 5 * 9
+integer total distance count equal five multiplied by five,integer total_distance_count = 5 * 5
+integer total distance count equal five multiplied by six,integer total_distance_count = 5 * 6
+integer total distance count equal five multiplied by seven,integer total_distance_count = 5 * 7
+integer total distance count equal five multiplied by eight,integer total_distance_count = 5 * 8
+integer total distance count equal five multiplied by nine,integer total_distance_count = 5 * 9
+integer y equal five divide five,integer y = 5 / 5
+integer y equal twelve divide six,integer y = 12 / 6
+integer y equal twenty one divide seven,integer y = 21 / 7
+integer y equal fourty divide eight,integer y = 40 / 8
+integer y equal sixty three divide nine,integer y = 63 / 9
+integer y equal five divided by five,integer y = 5 / 5
+integer y equal twelve divided by six,integer y = 12 / 6
+integer y equal twenty one divided by seven,integer y = 21 / 7
+integer y equal fourty divided by eight,integer y = 40 / 8
+integer y equal sixty three divided by nine,integer y = 63 / 9
+integer count equal five divide five,integer count = 5 / 5
+integer count equal twelve divide six,integer count = 12 / 6
+integer count equal twentcount one divide seven,integer count = 21 / 7
+integer count equal fourtcount divide eight,integer count = 40 / 8
+integer count equal sixtcount three divide nine,integer count = 63 / 9
+integer count equal five divided by five,integer count = 5 / 5
+integer count equal twelve divided by six,integer count = 12 / 6
+integer count equal twentcount one divided by seven,integer count = 21 / 7
+integer count equal fourtcount divided by eight,integer count = 40 / 8
+integer count equal sixtcount three divided by nine,integer count = 63 / 9
+integer table count equal five divide five,integer table_count = 5 / 5
+integer table count equal twelve divide six,integer table_count = 12 / 6
+integer table count equal twenty one divide seven,integer table_count = 21 / 7
+integer table count equal fourttable count divide eight,integer table_count = 40 / 8
+integer table count equal sixttable count three divide nine,integer table_count = 63 / 9
+integer total seat count equal five divide five,integer total_seat_count = 5 / 5
+integer total seat count equal twelve divide six,integer total_seat_count = 12 / 6
+integer total seat count equal twenty one divide seven,integer total_seat_count = 21 / 7
+integer total seat count equal fourty divide eight,integer total_seat_count = 40 / 8
+integer total seat count equal sixty three divide nine,integer total_seat_count = 63 / 9
+initiate integer x with value one,integer x = 1
+initiate number x with value one,number x = 1.0
+initiate integer x with value two,integer x = 2
+initiate number x with value two,number x = 2.0
+initiate integer x with value three,integer x = 3
+initiate number x with value three,number x = 3.0
+initiate integer x with value four,integer x = 4
+initiate number x with value four,number x = 4.0
+initiate integer x with value five,integer x = 5
+initiate number x with value five,number x = 5.0
+initiate integer x with value six,integer x = 6
+initiate number x with value six,number x = 6.0
+initiate integer x with value seven,integer x = 7
+initiate number x with value seven,number x = 7.0
+initiate integer x with value eight,integer x = 8
+initiate number x with value eight,number x = 8.0
+initiate integer x with value nine,integer x = 9
+initiate number x with value nine,number x = 9.0
+initiate integer x with value ten,integer x = 10
+initiate number x with value ten,number x = 10.0
+initiate integer x with value eleven,integer x = 11
+initiate number x with value eleven,number x = 11.0
+initiate integer x with value twelve,integer x = 12
+initiate number x with value twelve,number x = 12.0
+initiate integer x with value thirteen,integer x = 13
+initiate number x with value thirteen,number x = 13.0
+initiate integer x with value fourteen,integer x = 14
+initiate number x with value fourteen,number x = 14.0
+initiate integer x with value fifteen,integer x = 15
+initiate number x with value fifteen,number x = 15.0
+initiate boolean x with value false,boolean x = false
+initiate boolean x with value true,boolean x = true

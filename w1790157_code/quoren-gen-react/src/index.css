@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mantine-Prism-scrollArea .mantine-ScrollArea-viewport > div {
+  /* display: none; */
+  display: flex !important;
+  /* width: 100%; */
+  height: 100%;
+  flex-direction: column;
+}
+.mantine-Prism-scrollArea .mantine-ScrollArea-viewport pre {
+  height: 100%;
+}
+
+.mantine-Prism-scrollArea {
+  height: 100%;
+}
